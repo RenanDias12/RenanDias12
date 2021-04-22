@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
-- 💼 &nbsp; Working as a Software Developer at <a href="https://https://inatel.br/icc/">Inatel Competence Center</a>
+- 💼 &nbsp; Working as a Software Developer at <a href="https://inatel.br/icc/">Inatel Competence Center</a>
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
@@ -16,8 +16,8 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
@@ -44,7 +44,7 @@
 <br/>
 
 <a href="https://github.com/RenanDias12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanDias12&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanDias12&theme=flatremix&show_icons=true" />
 </a>
 
 <br/>
