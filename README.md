@@ -1,5 +1,5 @@
 
-<h2>Hi, I'm Rena Dias! </h2>
+<h2>Hi, I'm Renan Dias! </h2>
 
 ![](https://komarev.com/ghpvc/?username=RenanDias12&color=006bed)
 
