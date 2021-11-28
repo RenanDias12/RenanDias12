@@ -43,7 +43,8 @@
 
 **Cloud**
 
-![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-white?style=flat&logo=google%20cloud)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-333333?style=flat&logo=google%20cloud)
+[![Qwiklabs Profile]( https://img.shields.io/badge/Qwiklabs%20Public%20Profle-333333?style=flat&logo=qwiklabs)](https://www.qwiklabs.com/public_profiles/b3dbd96a-e84e-4709-b8ee-31cd34fe173c)
 
 <br/>
 
