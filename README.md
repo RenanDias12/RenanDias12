@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
-- 💼 &nbsp; Working as a Software Developer at <a href="https://inatel.br/icc/">Inatel Competence Center</a>
+- 💼 &nbsp; Working as a Business Analyst at <a href="https://www2.deloitte.com">Deloitte</a>
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
