@@ -6,7 +6,7 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
+- 🎓 &nbsp; Computer engineer by <a href="https://inatel.br/home/">Inatel</a>.
 - 💼 &nbsp; Working as a Business Analyst at <a href="https://www2.deloitte.com">Deloitte</a>
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
