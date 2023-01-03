@@ -22,6 +22,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 
 **Utilities**
 
@@ -40,6 +41,7 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi&logoColor=D4C713)
 
 **Cloud**
 
