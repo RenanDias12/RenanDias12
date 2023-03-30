@@ -5,7 +5,7 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies and developing AI/software solutions.
 - 🎓 &nbsp; Computer engineer by <a href="https://inatel.br/home/">Inatel</a>.
 - 💼 &nbsp; Working as a Business Analyst at <a href="https://www2.deloitte.com">Deloitte</a>
 
