@@ -22,7 +22,6 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 
 **Utilities**
 
