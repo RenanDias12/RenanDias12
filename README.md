@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing AI/software solutions.
 - 🎓 &nbsp; Computer engineer by <a href="https://inatel.br/home/">Inatel</a>.
-- 💼 &nbsp; Working as a BSpftware Engineer at <a href="https://www2.deloitte.com">Deloitte</a>
+- 💼 &nbsp; Working as a Software Engineer at <a href="https://www2.deloitte.com">Deloitte</a>
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
