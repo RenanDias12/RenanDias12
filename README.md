@@ -13,13 +13,10 @@
 
 **Application and Data**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
@@ -40,12 +37,12 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi&logoColor=D4C713)
 
 **Cloud**
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-333333?style=flat&logo=google%20cloud)
 [![Qwiklabs Profile]( https://img.shields.io/badge/Qwiklabs%20Public%20Profle-333333?style=flat&logo=qwiklabs)](https://www.qwiklabs.com/public_profiles/b3dbd96a-e84e-4709-b8ee-31cd34fe173c)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-333333?style=flat&logo=microsoft%20azure)
 
 <br/>
 
